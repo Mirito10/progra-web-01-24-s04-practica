@@ -5,8 +5,7 @@ function App() {
 let nombre ="Mathias";
 nombre = "Danilo";
 
-Function despedir (){
-  alert("Adios");
+
 }
 
   return (
