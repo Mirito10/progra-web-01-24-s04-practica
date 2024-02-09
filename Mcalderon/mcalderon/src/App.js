@@ -21,7 +21,7 @@ Function despedir (){
       </select>
       <br></br>
       <button onClick={saludar}Saludar></button>
-      <button onClick={despedir}Despedir></button>
+      <button onClick={despedir}Despedi1r></button>
     </div>
   );
 }
