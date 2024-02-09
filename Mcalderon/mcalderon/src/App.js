@@ -1,12 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-let nombre ="Mathias";
-nombre = "Danilo";
 
 
-}
+
 
   return (
     <div className="App">
@@ -23,6 +20,6 @@ nombre = "Danilo";
       <button onClick={despedir}Despedi1r></button>
     </div>
   );
-}
+
 
 export default App;
